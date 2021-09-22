@@ -1,0 +1,8 @@
+.MovieList {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.MovieList > * {
+    margin: 20 px;
+}
